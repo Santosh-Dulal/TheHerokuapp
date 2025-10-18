@@ -1,0 +1,39 @@
+[
+    {
+        "username":"",
+        "password":"",
+        "expected":"failure"
+    },
+    {
+        "username":"",
+        "password":"yrdy",
+         "expected":"failure"
+    },
+    {
+        "username":"tete",
+        "password":"",
+         "expected":"failure"
+    },
+    {
+        "username":"tete",
+        "password":"tetet",
+        "expected":"failure"
+    },
+    {
+        "username":"tomsmith",
+        "password":"tetet",
+        "expected":"failure"
+    },
+    {
+        "username":"dfgdfgfd",
+        "password":"SuperSecretPassword!",
+        "expected":"failure"
+    },
+     {
+        "username":"tomsmith",
+        "password":"SuperSecretPassword!",
+        "expected":"success"
+    }
+    
+    
+]
