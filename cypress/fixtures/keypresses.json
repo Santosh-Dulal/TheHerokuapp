@@ -1,0 +1,32 @@
+
+{
+  "keys": [
+    "{enter}",
+    "{esc}",
+    "{backspace}",
+    "{del}",
+    "{del}",              
+    "{insert}",
+    "{home}",
+    "{end}",
+    "{pageUp}",
+    "{pageDown}",
+    "{leftArrow}",
+    "{rightArrow}",
+    "{upArrow}",
+    "{downArrow}",
+    "{leftArrow}",        
+    "{rightArrow}",       
+    "{upArrow}",          
+    "{downArrow}",        
+    "{alt}",
+    "{ctrl}",
+    "{ctrl}",             
+    "{meta}",
+    "{meta}",            
+    "{cmd}",              
+    "{shift}",
+    "{space}",
+    "{selectAll}"
+  ]
+}
