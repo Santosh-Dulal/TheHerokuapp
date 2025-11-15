@@ -10,4 +10,12 @@ describe('Basic Auth', () => {
     it('Verify that hovering on the basic auth can be done', () => {
         ba.VerifyHoveringOnBasicAuth()
     })
+
+    it('Verify the url of the page', () => {
+      ba.VerifyURLOfTheBasicAuth()  
+    })
+
+    it('Verify login via js prompt alert', () => {
+        ba.VerifyBasicAuth()
+    })
 })
